@@ -1,10 +1,12 @@
 <template>
-  <div>this is index</div>
+  <div>
+      this is orderHeader
+  </div>
 </template>
 
 <script>
 export default {
-    name:'index'
+    name:'OrderHeader'
 }
 </script>
 
