@@ -2,22 +2,22 @@
  * @Author: 'yang' '1173278084@qq.com'
  * @Date: 2022-05-02 18:20:38
  * @LastEditors: 'yang' '1173278084@qq.com'
- * @LastEditTime: 2022-05-04 20:48:50
+ * @LastEditTime: 2022-05-04 20:58:01
  * @FilePath: \mimall\src\router\index.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/home.vue'
-import Index from '../views/index.vue'
-import Product from '../views/product.vue'
-import Detail from '../views/detail.vue'
-import Cart from '../views/cart.vue'
-import Order from '../views/order.vue'
-import OrderConfirm from '../views/orderConfirm.vue'
-import OrderList from '../views/orderList.vue'
-import OrderPay from '../views/orderPay.vue'
-import AliPay from '../views/aliPay.vue'
+import Home from '../views/home'
+import Index from '../views/index'
+import Product from '../views/product'
+import Detail from '../views/detail'
+import Cart from '../views/cart'
+import Order from '../views/order'
+import OrderConfirm from '../views/orderConfirm'
+import OrderList from '../views/orderList'
+import OrderPay from '../views/orderPay'
+import AliPay from '../views/aliPay'
 
 
 Vue.use(VueRouter)
