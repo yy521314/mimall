@@ -2,7 +2,7 @@
  * @Author: 'yang' '1173278084@qq.com'
  * @Date: 2022-05-04 20:03:46
  * @LastEditors: 'yang' '1173278084@qq.com'
- * @LastEditTime: 2022-05-05 21:30:48
+ * @LastEditTime: 2022-05-06 19:43:59
  * @FilePath: \mimall\src\storage\index.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
